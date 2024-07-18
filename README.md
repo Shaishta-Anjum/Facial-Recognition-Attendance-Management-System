@@ -1,4 +1,4 @@
-# Face Recognition Attendance Management System
+# Facial Recognition Attendance Management System
 
 ## Overview
 The Face Recognition Based Attendance System is a comprehensive solution designed to streamline the process of attendance tracking using facial recognition technology. This system leverages advanced machine learning algorithms and computer vision techniques to provide a reliable, efficient, and user-friendly way to manage attendance records.
